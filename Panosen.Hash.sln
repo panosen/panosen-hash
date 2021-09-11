@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Panosen.Hash", "Panosen.Hash\Panosen.Hash.csproj", "{B2DFFDA9-5BB1-43B6-B4B0-0CD0271B440A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Panosen.Hash.MSTest", "Panosen.Hash.MSTest\Panosen.Hash.MSTest.csproj", "{98C25562-17FF-404F-A25F-8340F7DB3BF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2DFFDA9-5BB1-43B6-B4B0-0CD0271B440A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2DFFDA9-5BB1-43B6-B4B0-0CD0271B440A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2DFFDA9-5BB1-43B6-B4B0-0CD0271B440A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2DFFDA9-5BB1-43B6-B4B0-0CD0271B440A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98C25562-17FF-404F-A25F-8340F7DB3BF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98C25562-17FF-404F-A25F-8340F7DB3BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98C25562-17FF-404F-A25F-8340F7DB3BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98C25562-17FF-404F-A25F-8340F7DB3BF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6DA60E9-7206-41CA-828B-C5A78938AC66}
+	EndGlobalSection
+EndGlobal
