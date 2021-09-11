@@ -6,7 +6,7 @@ namespace Panosen.Hash
     /// <summary>
     /// Signature helper class.
     /// </summary>
-    public class HashHelper
+    public static class HashHelper
     {
         /// <summary>
         /// Sha256Hex
